@@ -11,6 +11,8 @@ FerNote is a straightforward web application for taking and managing notes. It p
 - **Organize Notes**: Categorize your notes using tags.
 - **Search Functionality**: Quickly find the note you're looking for with a powerful search feature.
 - **Responsive Design**: FerNote is fully responsive and works on various devices.
+- **Share Your Notes**: When you want to share your note with another person, you click the "Publish" button and it will create a link for you. When you send this link to someone else, they just need to click on the link to view your note.
+- **Security**: Your notes and your account information secured by Clerk.com and Vercel.com.
 
 ## Visit
 
