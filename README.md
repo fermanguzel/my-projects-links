@@ -1,7 +1,7 @@
 # my-projects-links
 ## My big projects are in private mode. This repo includes their deployed Links. if you want to see source codes get it touch with me with email
 
-# FerNote - A Simple Note-Taking App
+# 1. FerNote - A Simple Note-Taking App
 
 FerNote is a straightforward web application for taking and managing notes. It provides a clean and user-friendly interface to jot down your thoughts, tasks, and ideas.
 
